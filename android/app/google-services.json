@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229802095318",
+    "firebase_url": "https://omnyati-89aaa.firebaseio.com",
+    "project_id": "omnyati-89aaa",
+    "storage_bucket": "omnyati-89aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229802095318:android:c38eea42d2d6427b8ecf77",
+        "android_client_info": {
+          "package_name": "com.thqq.omnyati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229802095318-5ccokg3icaknbilc1o1i8cvbq2il7vts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thqq.omnyati",
+            "certificate_hash": "41ac98142c088c3c0be9673de717cb518292f37c"
+          }
+        },
+        {
+          "client_id": "229802095318-5s66858ana8qc7gqdvealt0e1ccjg0o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZ9nADsnJTqrNgX42mzGjexT5UwZ1Z_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229802095318-5s66858ana8qc7gqdvealt0e1ccjg0o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
